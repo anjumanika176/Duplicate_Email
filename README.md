@@ -95,6 +95,4 @@ This finds emails that have another row with the same email but a different `id`
 MySQL
 
 ## Link
-https://leetcode.com/problems/duplicate-emails/
-
 https://leetcode.com/problems/duplicate-emails
